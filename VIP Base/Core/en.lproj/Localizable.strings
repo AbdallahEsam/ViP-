@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  VIP Base
+ 
+  Created by Abdallah Esam on 11/1/2022.
+  Copyright © 2021 Abdallah Esam. All rights reserved.
+ 
+
+  
+*/
+
+"invalid_Email" = "Enter Your Valid E-mail";
+"short_full_name" = "Enter Your Full Name, Must Be At Least 6 Chars";
+"Password_Should_Be" = "Password Should Be At Least";
+"Chars" = "Chars";
+"Empty_Name" = "Empty Name";
+"Please_Enter_Valid" = "Please Enter Valid";
+"Must_Be_At_least" = "Must Be At least";
+"Empty_Mail" = "Empty Mail!";
+"enter_password_message" = "Please Enter Your Password";
+"enter_Confirmation_Password" = "Please Confirm Your Password";
+"phone_Must_Be_At_Least" = "Enter Your Valid Phone Number, Must Be At Least 10 Nums";
+"enter_your_phone_number" = "Enter Your Phone Number";
+"invalid_Phone" = "Your Phone Number Is Invalid";
+"not_the_same_passwords" = "Enter The Same Passord Twice";
+"select_location" = "Please Select Your Location";
+"error" = "Error";
+"cannot_decode" = "Cannot decode";
+"no_internet" = "No internet";
+"error_401" = "Token expire";
+"error_500" = "Internal server error";
+"timeout_Error" = "timeOut";
+"success" = "Success";
+"warning" = "Warning";
